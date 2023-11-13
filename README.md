@@ -17,10 +17,4 @@ kaggle dataset used: https://www.kaggle.com/datasets/mostafaabla/garbage-classif
 
 2.2 The user can log in or register (The accounts information is stored in firebase realtime database).
 
-2.3 After logging in, the user can make an order by clicking on 'order' on the navbar.
-
-2.4 The user now is asked to fill a form of the recyclable object they want to recycle.
-
-2.5 The user can provide an image of the object they want to be recycled and the image is passed to our trained model, and the model returns the type of the object given.
-
-2.6 The photo uploaded by the user (if any) will be uploaded to firebase storage and the order details will be stored in firebase realtime database.
+2.3 After logging in, the user can discover the eclipse visual content.
