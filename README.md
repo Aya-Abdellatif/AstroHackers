@@ -1,4 +1,4 @@
-# AstroHachersTeam EclipseOdyssey project
+# AstroHackersTeam EclipseOdyssey project
 -------------------------------------------
 
 1. How to use:
